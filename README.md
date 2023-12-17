@@ -3,5 +3,5 @@
 </p>
 
 ---
-<img width="400" height="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+<img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
     
