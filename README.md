@@ -8,6 +8,7 @@
 Mario
 Portal
 Pikmin
+splatoon
 gorillaz
 tally hall/Musical miracle
 lemon demon
