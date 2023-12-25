@@ -8,6 +8,7 @@
 Mario
 Portal
 Pikmin
+scott pilgrim
 splatoon
 gorillaz
 tally hall/Musical miracle
