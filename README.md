@@ -4,7 +4,7 @@
 
 **`Unhinged Pyhton programmer🥤 tech nerd 🥤semi-arch user💀 🥤 artist`**
 
-#Things am interested in
+# Things am interested in
 Mario
 Portal
 Pikmin
@@ -27,7 +27,7 @@ lightbrush
 suitloon
 pretzels
 
-#DNI >:/ if your a
+# DNI >:/ if your a
 p3do
 Racist
 tf2 fan in the communtiy
